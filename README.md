@@ -4,12 +4,9 @@
 <head>
   <meta charset="UTF-8">
   <title>Basic Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/css/style.css">
-
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
-
 <body>
-   <section id="main">
   <header>
     <h1>Suresh Mahato</h1> 
   </header>
@@ -21,11 +18,10 @@
     </ul>
   
   </div>
-</section>
   <div class="Main-bio">
       <h2>About Me </h2>
       
-      <img id="bio-image" src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/Suresh.jpg" width="300" height="300" alt="suresh mahato">
+      <img id="bio-image" src="assets/images/Suresh.jpg" width="300" height="300" alt="suresh mahato">
     
       <p>I was born and grew up in a remote village of Nepal.<br/>
          I completed my highschool from my village school and then paved <br/>
@@ -60,7 +56,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Basic Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 </head>
 
@@ -105,7 +101,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Basic Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 </head>
 
@@ -125,10 +121,10 @@
 
   <div class="Main-bio">
   <h2>Portfolio: </h2>
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh2.jpg" width="200" height="200">
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh3.jpg" width="200" height="200"><br/>
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh4.jpg" width="200" height="200">
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh5.jpg" width="200" height="200">
+  <img src="assets/images/suresh2.jpg" width="200" height="200">
+  <img src="assets/images/suresh3.jpg" width="200" height="200"><br/>
+  <img src="assets/images/suresh4.jpg" width="200" height="200">
+  <img src="images/suresh5.jpg" width="200" height="200">
  
   
     </div>
@@ -139,44 +135,3 @@
 </body>
 
 </html>
-<!DOCTYPE html>
-<html lang="en-us">
-
-<head>
-  <meta charset="UTF-8">
-  <title>Basic Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/css/style.css">
-
-</head>
-
-<body>
-    
-  <header>
-    <h1>Suresh Mahato</h1> 
-  </header>
-  <div id="nav">
-    <ul>
-      <li><a href="">About</a></li>
-      <li><a href="">Portfolio</a></li>
-      <li><a href="">contact</a></li>
-    </ul>
-  
-  </div>
-
-  <div class="Main-bio">
-  <h2>Portfolio: </h2>
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh2.jpg" width="200" height="200">
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh3.jpg" width="200" height="200"><br/>
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh4.jpg" width="200" height="200">
-  <img src="/Users/sureshmahato/Desktop/Basic-Portfolio/assets/images/suresh5.jpg" width="200" height="200">
- 
-  
-    </div>
-    <section id="footer">
-    copyright@
-    </section>
-
-</body>
-
-</html>
-
